@@ -1,5 +1,0 @@
-
-"Retrained and fine-tuned an open-source ROBERTA model on news and tweets related to war in Ukraine.
-
-
-ROBERTA is an optimized version of BERT, a Natural Language Processing (NLP) model, which uses Transformers and masking
