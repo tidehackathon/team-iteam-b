@@ -1,0 +1,16 @@
+.header-container{
+  position:relative;
+  display:inline-block;
+}
+.header-title {
+  left: 98px;
+  color: rgb(0, 0, 0);
+  position:absolute;
+  display:inline-block;
+}
+.header-image {
+  top: 0px;
+  left: 0px;
+  width: 1400px;
+  position:absolute;
+}
